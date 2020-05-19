@@ -1,0 +1,9 @@
+D:\AdminLoginProject\AdminClient\AdministratorClient\bin\Debug\AdministratorClient.exe.config
+D:\AdminLoginProject\AdminClient\AdministratorClient\bin\Debug\AdministratorClient.exe
+D:\AdminLoginProject\AdminClient\AdministratorClient\bin\Debug\AdministratorClient.pdb
+D:\AdminLoginProject\AdminClient\AdministratorClient\obj\Debug\AdministratorClient.csprojAssemblyReference.cache
+D:\AdminLoginProject\AdminClient\AdministratorClient\obj\Debug\AdministratorClient.Properties.Resources.resources
+D:\AdminLoginProject\AdminClient\AdministratorClient\obj\Debug\AdministratorClient.csproj.GenerateResource.cache
+D:\AdminLoginProject\AdminClient\AdministratorClient\obj\Debug\AdministratorClient.exe
+D:\AdminLoginProject\AdminClient\AdministratorClient\obj\Debug\AdministratorClient.pdb
+D:\AdminLoginProject\AdminClient\AdministratorClient\obj\Debug\AdministratorClient.AdminClient.resources
